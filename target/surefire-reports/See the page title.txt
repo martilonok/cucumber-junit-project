@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: See the page title
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.651 s <<< FAILURE! - in See the page title
+See the page title.Etsy title verification  Time elapsed: 9.651 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: 
+Step [user goes to Etsy homepage] is defined with 1 parameters at 'com.cydeo.step_definitions.EtsyHomePage_StepDefinitions.user_goes_to_etsy_homepage(java.lang.String)'.
+However, the gherkin step has 0 arguments.
+Step text: user goes to Etsy homepage
+
